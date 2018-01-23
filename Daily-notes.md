@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 22 January 2018 @ 06:57CST
+Last update: this is a test
 
 ---------------------------------------------
 ---------------------------------------------
