@@ -18,6 +18,8 @@ Last update: this is a test
 ---------------------------------------------
 ---------------------------------------------
 
+This is a test.
+
 This page has two functions: (1) it will be used for immediate short-term, day-to-day planning, and (2) a review of what has taken place in each class session.  You can use this to get a sense of what I am planning for each session, based on the materials and rough agenda outlined on the Resources page.  
 
 **Check this page often.  It will be updated frequently.**
